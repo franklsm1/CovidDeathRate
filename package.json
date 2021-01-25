@@ -1,0 +1,37 @@
+{
+  "name": "covidDeathRate",
+  "version": "1.0.0",
+  "description": "Get the current covid death rate",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklsm1/CovidDeathRate.git"
+  },
+  "author": "Sean Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklsm1/CovidDeathRate/issues"
+  },
+  "homepage": "https://github.com/franklsm1/CovidDeathRate#readme",
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "jest": "^26.1.0",
+    "jest-fetch-mock": "^3.0.3"
+  },
+  "jest": {
+    "automock": false,
+    "setupFiles": [
+      "./setupJest.js"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test"
+    }
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

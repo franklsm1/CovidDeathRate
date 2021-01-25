@@ -1,0 +1,206 @@
+{
+  "age_cases": [
+    {
+      "age_group": "0 - 4 Years",
+      "count": 349310,
+      "Percent": 1.9,
+      "b": [
+        {
+          "Sequence": 1
+        }
+      ]
+    },
+    {
+      "age_group": "5 - 17 Years",
+      "count": 1681858,
+      "Percent": 9.1,
+      "b": [
+        {
+          "Sequence": 2
+        }
+      ]
+    },
+    {
+      "age_group": "18 - 29 Years",
+      "count": 4175950,
+      "Percent": 22.6,
+      "b": [
+        {
+          "Sequence": 3
+        }
+      ]
+    },
+    {
+      "age_group": "30 - 39 Years",
+      "count": 3032750,
+      "Percent": 16.4,
+      "b": [
+        {
+          "Sequence": 4
+        }
+      ]
+    },
+    {
+      "age_group": "40 - 49 Years",
+      "count": 2770816,
+      "Percent": 15.0,
+      "b": [
+        {
+          "Sequence": 5
+        }
+      ]
+    },
+    {
+      "age_group": "50 - 64 Years",
+      "count": 3795779,
+      "Percent": 20.6,
+      "b": [
+        {
+          "Sequence": 6
+        }
+      ]
+    },
+    {
+      "age_group": "65 - 74 Years",
+      "count": 1429731,
+      "Percent": 7.7,
+      "b": [
+        {
+          "Sequence": 7
+        }
+      ]
+    },
+    {
+      "age_group": "75 - 84 Years",
+      "count": 758319,
+      "Percent": 4.1,
+      "b": [
+        {
+          "Sequence": 8
+        }
+      ]
+    },
+    {
+      "age_group": "85+ Years",
+      "count": 460537,
+      "Percent": 2.5,
+      "b": [
+        {
+          "Sequence": 9
+        }
+      ]
+    },
+    {
+      "age_group": "Unknown",
+      "count": 93998,
+      "Percent": null,
+      "b": [
+        {
+          "Sequence": 10
+        }
+      ]
+    }
+  ],
+  "age_deaths": [
+    {
+      "age_group": "0 - 4 Years",
+      "count": 79,
+      "Percent": 0.0,
+      "b": [
+        {
+          "Sequence": 1
+        }
+      ]
+    },
+    {
+      "age_group": "5 - 17 Years",
+      "count": 181,
+      "Percent": 0.1,
+      "b": [
+        {
+          "Sequence": 2
+        }
+      ]
+    },
+    {
+      "age_group": "18 - 29 Years",
+      "count": 1484,
+      "Percent": 0.5,
+      "b": [
+        {
+          "Sequence": 3
+        }
+      ]
+    },
+    {
+      "age_group": "30 - 39 Years",
+      "count": 3462,
+      "Percent": 1.2,
+      "b": [
+        {
+          "Sequence": 4
+        }
+      ]
+    },
+    {
+      "age_group": "40 - 49 Years",
+      "count": 8291,
+      "Percent": 2.8,
+      "b": [
+        {
+          "Sequence": 5
+        }
+      ]
+    },
+    {
+      "age_group": "50 - 64 Years",
+      "count": 42120,
+      "Percent": 14.3,
+      "b": [
+        {
+          "Sequence": 6
+        }
+      ]
+    },
+    {
+      "age_group": "65 - 74 Years",
+      "count": 61432,
+      "Percent": 20.9,
+      "b": [
+        {
+          "Sequence": 7
+        }
+      ]
+    },
+    {
+      "age_group": "75 - 84 Years",
+      "count": 80889,
+      "Percent": 27.5,
+      "b": [
+        {
+          "Sequence": 8
+        }
+      ]
+    },
+    {
+      "age_group": "85+ Years",
+      "count": 96318,
+      "Percent": 32.7,
+      "b": [
+        {
+          "Sequence": 9
+        }
+      ]
+    },
+    {
+      "age_group": "Unknown",
+      "count": 25,
+      "Percent": null,
+      "b": [
+        {
+          "Sequence": 10
+        }
+      ]
+    }
+  ]
+}
